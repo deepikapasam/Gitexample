@@ -7,5 +7,8 @@ public abstract class Abstraction {
 		String s = new 
 		 
 	}
+	
+	
+	void abstract hello();
 
 }
